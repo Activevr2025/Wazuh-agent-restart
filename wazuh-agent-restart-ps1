@@ -1,4 +1,3 @@
-Script PowerShell minimal (consigliato per il tuo requisito)
 # Ensure-WazuhAgent.ps1
 # Controlla lo stato del servizio Wazuh Agent e lo avvia se non è in esecuzione.
 
